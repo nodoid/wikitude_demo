@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="4451" systemVersion="13A461" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="vXZ-lx-hvc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
+    </dependencies>
+    <scenes>
+        <!--class Prefix:identifier View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="WikitudeVC" sceneMemberID="viewController" storyboardIdentifier="WikitudeVC" useStoryboardIdentifierAsRestorationIdentifier="YES" automaticallyAdjustsScrollViewInsets="NO">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="3"/>
+                        <viewControllerLayoutGuide type="bottom" id="4"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <subviews/>
+                    </view>
+                    <connections/>
+                    <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="0.0" y="0.0"/>
+        </scene>
+    </scenes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+    <resources>
+        <image name="Default-568h.png" width="320" height="568"/>
+        <image name="1_ImageRecognition_1_ImageOnTarget/assets/imageOne.png" width="446" height="1024"/>
+        <image name="1_ImageRecognition_1_ImageOnTarget/assets/surfer.png" width="38" height="50"/>
+        <image name="1_ImageRecognition_2_MultipleTargets/assets/imageTwo.jpg" width="1200" height="986"/>
+        <image name="1_ImageRecognition_2_MultipleTargets/assets/imgIPhone.jpg" width="3264" height="2448"/>
+        <image name="1_ImageRecognition_2_MultipleTargets/assets/imgMug.jpg" width="3264" height="2448"/>
+        <image name="icoinstagram.png" width="58" height="58"/>
+        <image name="icofacebook.png" width="58" height="58"/>
+        <image name="icotwitter.png" width="58" height="58"/>
+        <image name="Trade_Gothic_LT_Bold_Condensed_No.ttf" width="0" height="0"/>
+        <image name="ProximaNova-Light.ttf" width="0" height="0"/>
+        <image name="ProximaNova-LightItalic.ttf" width="0" height="0"/>
+        <image name="ProximaNova-RegItalic.ttf" width="0" height="0"/>
+        <image name="ProximaNova-Regular.ttf" width="0" height="0"/>
+        <image name="productexplorer.png" width="750" height="390"/>
+        <image name="scanproduct.png" width="750" height="390"/>
+        <image name="wheretobuy.png" width="750" height="390"/>
+        <image name="icoback.png" width="36" height="56"/>
+        <image name="icomenu.png" width="65" height="41"/>
+        <image name="headerlogo.png" width="111" height="87"/>
+        <image name="howtoscan.png" width="750" height="510"/>
+        <image name="notifications.png" width="82" height="89"/>
+        <image name="regional.png" width="92" height="92"/>
+        <image name="bodyclean.png" width="261" height="190"/>
+        <image name="bodyfinish.png" width="274" height="198"/>
+        <image name="bodyrestore.png" width="293" height="184"/>
+        <image name="categorybackground.png" width="750" height="1178"/>
+        <image name="cleanglass.png" width="221" height="180"/>
+        <image name="cleaninterior.png" width="141" height="195"/>
+        <image name="wheelsandtyres.png" width="261" height="198"/>
+        <image name="sharefacebook.png" width="23" height="48"/>
+        <image name="favourites_settings.png" width="92" height="87"/>
+        <image name="favourite_off.png" width="51" height="49"/>
+        <image name="favourite_on.png" width="51" height="49"/>
+        <image name="findretailer.png" width="750" height="390"/>
+        <image name="shareinstagram.png" width="49" height="49"/>
+        <image name="sharetwitter.png" width="59" height="48"/>
+        <image name="step1.png" width="154" height="154"/>
+        <image name="step2.png" width="154" height="154"/>
+        <image name="step3.png" width="154" height="154"/>
+        <image name="tippoint.png" width="62" height="48"/>
+        <image name="turtletips.png" width="395" height="310"/>
+        <image name="esstile_essential_500ml_aerosol_cockpit_clean_matt.png" width="640" height="678"/>
+        <image name="esstile_Essential_Car_Wax_Spray.png" width="640" height="678"/>
+        <image name="esstile_Essential_Cockpit_Cleaner_New_car.png" width="640" height="678"/>
+        <image name="esstile_Essential_Cockpit_Cleaner_Pad.png" width="640" height="678"/>
+        <image name="esstile_Essential_Glass_Cleaner.png" width="640" height="678"/>
+        <image name="esstile_Essential_Power_Wash_and_Wax.png" width="640" height="678"/>
+        <image name="esstile_Essential_Shampoo.png" width="640" height="678"/>
+        <image name="esstile_Essential_Shampoo_Orange_Burst.png" width="640" height="678"/>
+        <image name="esstile_Essential_Upholstery_Cleaner.png" width="640" height="678"/>
+        <image name="esstile_Essential_Wheel_Cleaner.png" width="640" height="678"/>
+        <image name="proddet_0000_Essential_Glass_Cleaner.png" width="333" height="564"/>
+        <image name="proddet_0001_Essential_Wheel_Cleaner.png" width="333" height="564"/>
+        <image name="proddet_0002_Essential_Car_Wax_Spray.png" width="333" height="564"/>
+        <image name="proddet_0003_Essential_Cockpit_Cleaner_Pad.png" width="333" height="564"/>
+        <image name="proddet_0004_Essential_Upholstery_Cleaner.png" width="333" height="564"/>
+        <image name="proddet_0005_Essential_Power_Wash_and_Wax.png" width="333" height="564"/>
+        <image name="proddet_0006_Essential_Cockpit_Cleaner_New_car.png" width="333" height="564"/>
+        <image name="proddet_0007_Essential_Shampoo_Orange_Burst.png" width="333" height="564"/>
+        <image name="proddet_0008_Essential_Shampoo.png" width="333" height="564"/>
+        <image name="proddet_DETAILS-625_essential_500ml_aerosol_cockpit_clean_matt.png" width="333" height="564"/>
+        <image name="prodet_DETAILS_625_essential_100gm_tube_label_scratch_remover.png" width="333" height="564"/>
+        <image name="greentile_FG7605_Turtle_Wax_Clay_Bar.png" width="640" height="678"/>
+        <image name="greentile_FG7610_Turtle_Wax_Soft_Top_Kit.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_ALL_WHEEL_CLEANER_500ml_UK_FG7613_FAW.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_BLACK_IN_A_FLASH_300ml_FG7614_UK_FAW.png" width="640" height="678"/>
+        <image name="greentile_Green_Line_Bodywork_BlackInaFlash_500ml_Aerosol_UK_FG7615.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_BUG_AND_TAR_REMOVER_500ml_UK_FG7616_FAW.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_CARNAUBA_CAR_WAX_300ml_FG7617_UK_FAW.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_CARNAUBA_CAR_WAX_FG7618_UK_FAW.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_CLEAR_VUE_GLASS_CLEAN_500ml_UK_FG7619_FAW.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_CLEAR_VUE_RAIN_REPEL_300ml_FG7620_UK_FAW.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_DRY_TOUCH_300ML_WRAP_FG7622_UK.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_DRY_TOUCH_500ml_UK_FG7623_FAW.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_FRESH_METAL_POLISH_300ML_FG7632_UK_FAW.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_FRESH_SHINE_COCKPIT_SHINE_CITRUS_FG7624_UK.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_FRESH_SHINE_COCKPIT_SHINE_NEW_CAR_FG7625_UK.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_FRESH_SHINE_COCKPIT_SHINE_OUTDOOR_FRESH_FG7626.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_FRESH_SHINE_COCKPIT_SHINE_STRAWBERRY_FG7627_UK.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_FRESH_SHINE_COCKPIT_SHINE_VANILLA_FG7628_UK.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_HEADLIGHT_RESTORER_KIT_FG7606.png" width="640" height="678"/>
+        <image name="greentile_Green_Line_Interior1_400ml_Aerosol_UK_FG7629.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_LIQUID_SHINE_500ML_FG7630_UK_TRIGGER_SPRAY_FAW.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_LUXE_LEATHER_500ML_FG7631_UK_FAW.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_ORIGINAL_CAR_WAX_500ML_FG7633_UK.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_ORIGINAL_PASTE_250G_LID_OVERLABEL_FG7607.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_RESTORATIVE_POLISH_500ML_FG7634_UK.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_RUBBING_COMPOUND_LID_OVERLABEL_250G_FG7608.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_SCRATCH_REPAIR_KIT_FG7609.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_WAX_IT_WET_500ml_UK_FG7638_FAW.png" width="640" height="678"/>
+        <image name="greentile_Green_Line_WET_BLACK_500ml_Aerosol_UK_FG7640.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_WET_N_BLACK_500ml_UK_FG7639_FAW.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_WATERLESS_WASH_KIT_LABEL_UK_FG7612_FAW.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_DASH_AND_GLASS_500ml_UK_FG7621.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_STREAK_FREE_WASH_AND_WAX_1_LITRE_FG7635_UK_FAW.png" width="640" height="678"/>
+        <image name="greentile_GREEN_LINE_STREAK_FREE_WASH_AND_WAX_500ML_FG7636_UK.png" width="640" height="678"/>
+        <image name="icoforward.png" width="43" height="65"/>
+        <image name="icopointer_map.png" width="64" height="83"/>
+        <image name="icopointer_large.png" width="75" height="112"/>
+        <image name="current_location.png" width="75" height="75"/>
+        <image name="retail_search_bg.png" width="750" height="1334"/>
+        <image name="icosearch.png" width="49" height="49"/>
+        <image name="retailer_bnq.png" width="750" height="265"/>
+        <image name="retailer_halfords.png" width="750" height="265"/>
+        <image name="retailer_homebase.png" width="750" height="265"/>
+        <image name="retailer_tesco.png" width="750" height="265"/>
+        <image name="retailer_wilko.png" width="750" height="265"/>
+        <image name="prodgreen_0009_3022_GREEN_LINE_RESTORATIVE_POLISH_500ML_FG7634_UK.png" width="333" height="564"/>
+        <image name="prodgreen_0010_3039_GREEN_LINE_ORIGINAL_PASTE_250G_LID_OVERLABEL_FG7607.png" width="333" height="564"/>
+        <image name="prodgreen_0011_3037_GREEN_LINE_RUBBING_COMPOUND_LID_OVERLABEL_250G_FG7608.png" width="333" height="564"/>
+        <image name="prodgreen_0012_3026_GREEN_LINE_ORIGINAL_CAR_WAX_500ML_FG7633_UK.png" width="333" height="564"/>
+        <image name="prodgreen_0013_FG7605_Turtle_Wax_Clay_Bar.png" width="333" height="564"/>
+        <image name="prodgreen_0014_FG7610_Turtle_Wax_Soft_Top_Kit.png" width="333" height="564"/>
+        <image name="prodgreen_0016_3021_GREEN_LINE_DRY_TOUCH_500ml_UK_FG7623_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0017_3020_GREEN_LINE_WET_N_BLACK_500ml_UK_FG7639_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0018_3019_GREEN_LINE_BUG_AND_TAR_REMOVER_500ml_UK_FG7616_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0019_3018_GREEN_LINE_DASH_AND_GLASS_500ml_UK_FG7621.png" width="333" height="564"/>
+        <image name="prodgreen_0020_3017_GREEN_LINE_ALL_WHEEL_CLEANER_500ml_UK_FG7613_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0021_3016_GREEN_LINE_WAX_IT_WET_500ml_UK_FG7638_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0022_3015-GREEN_LINE_CLEAR_VUE_GLASS_CLEAN_500ml_UK_FG7619_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0023_3010_GREEN_LINE_LIQUID_SHINE_500ML_FG7630_UK_TRIGGER_SPRAY_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0024_3014_GREEN_LINE_CARNAUBA_CAR_WAX_300ml_FG7617_UK_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0025_3013_GREEN_LINE_CLEAR_VUE_RAIN_REPEL_300ml_FG7620_UK_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0026_3012_GREEN_LINE_BLACK_IN_A_FLASH_300ml_FG7614_UK_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0027_3011_GREEN_LINE_LUXE_LEATHER_500ML_FG7631_UK_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0028_3009_GREEN_LINE_STREAK_FREE_WASH_AND_WAX_1_LITRE_FG7635_UK_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0029_3007_GREEN_LINE_FRESH_METAL_POLISH_300ML_FG7632_UK_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0030_3008_GREEN_LINE_STREAK_FREE_WASH_AND_WAX_500ML_FG7636_UK.png" width="333" height="564"/>
+        <image name="prodgreen_0031_3006_GREEN_LINE_CARNAUBA_CAR_WAX_FG7618_UK_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_0032_3004_GREEN_LINE_DRY_TOUCH_300ML_WRAP_FG7622_UK.png" width="333" height="564"/>
+        <image name="prodgreenn_0034_2097_GREEN_LINE_SCRATCH_REPAIR_KIT_FG7609.png" width="333" height="564"/>
+        <image name="prodgreen_0035_2090_GREEN_LINE_HEADLIGHT_RESTORER_KIT_FG7606.png" width="333" height="564"/>
+        <image name="prodgreen_0036_2083_GREEN_LINE_FRESH_SHINE_COCKPIT_SHINE_NEW_CAR_FG7625_UK.png" width="333" height="564"/>
+        <image name="prodgreen_0037_2082_GREEN_LINE_FRESH_SHINE_COCKPIT_SHINE_OUTDOOR_FRESH_FG7626.png" width="333" height="564"/>
+        <image name="prodgreen_0038_2081_GREEN_LINE_FRESH_SHINE_COCKPIT_SHINE_VANILLA_FG7628_UK.png" width="333" height="564"/>
+        <image name="prodgreen_0039_2080_GREEN_LINE_FRESH_SHINE_COCKPIT_SHINE_STRAWBERRY_FG7627_UK.png" width="333" height="564"/>
+        <image name="prodgreen_0040_2079_GREEN_LINE_FRESH_SHINE_COCKPIT_SHINE_CITRUS_FG7624_UK.png" width="333" height="564"/>
+        <image name="prodgreen_0041_2078_Green_Line_WET_BLACK_500ml_Aerosol_UK_FG7640.png" width="333" height="564"/>
+        <image name="prodgreen_0042_2077_Green_Line_Bodywork_BlackInaFlash_500ml_Aerosol_UK_FG7615.png" width="333" height="564"/>
+        <image name="prodgreen_0043_2074_Green_Line_Interior1_400ml_Aerosol_UK_FG7629.png" width="333" height="564"/>
+        <image name="prodgreen_2088_GREEN_LINE_WATERLESS_WASH_KIT_LABEL_UK_FG7612_FAW.png" width="333" height="564"/>
+        <image name="prodgreen_DETAILS_GREEN_LINE_TYRE_AND_BUMPER_GEL_500ML_FG7637_UK_FAW.png" width="333" height="564"/>
+        <image name="fintile_0002_Turtle_Wax_Tyre_Gel_FG7556.png" width="640" height="678"/>
+        <image name="fintile_0003_Turtle_Wax_Spray_Wax_FG7294.png" width="640" height="678"/>
+        <image name="fintile_0004_Turtle_Wax_Shampoo_FG7280.png" width="640" height="678"/>
+        <image name="fintile_0005_Turtle_Wax_Scratch_remover_FG7288.png" width="640" height="678"/>
+        <image name="fintile_0006_Turtle_Wax_Polish_FG7289.png" width="640" height="678"/>
+        <image name="fintile_0007_Turtle_Wax_Paste_Wax_v2_FG7293.png" width="640" height="678"/>
+        <image name="fintile_0008_Turtle_Wax_Paste_Wax_v1_FG7293.png" width="640" height="678"/>
+        <image name="fintile_0009_Turtle_Wax_Metal_Shine.png" width="640" height="678"/>
+        <image name="fintile_0010_Turtle_Wax_Leather_Conditioner_FG7291.png" width="640" height="678"/>
+        <image name="fintile_0011_Turtle_Wax_Interior_Shampoo_FG7284.png" width="640" height="678"/>
+        <image name="fintile_0012_Turtle_Wax_Interior_plastic_shine_FG7301.png" width="640" height="678"/>
+        <image name="fintile_0013_Turtle_Wax_Interior_plastic_matt_FG7302.png" width="640" height="678"/>
+        <image name="fintile_0014_Turtle_Wax_Insect_Remover_FG7281.png" width="640" height="678"/>
+        <image name="fintile_0015_Turtle_Wax_Gloss_Protect_FG7297.png" width="640" height="678"/>
+        <image name="fintile_0016_Turtle_Wax_Glass_Treatment_FG7303.png" width="640" height="678"/>
+        <image name="fintile_0017_Turtle_Wax_Glass_Clean_FG7285.png" width="640" height="678"/>
+        <image name="fintile_0018_Turtle_Wax_Fresh_Leather_FG7287.png" width="640" height="678"/>
+        <image name="fintile_0019_Turtle_Wax_Exterior_Plastic_FG7290.png" width="640" height="678"/>
+        <image name="fintile_0020_Turtle_Wax_Detailer_spray_FG7298.png" width="640" height="678"/>
+        <image name="fintile_0021_Turtle_Wax_Dark_Car_wax_FG7295.png" width="640" height="678"/>
+        <image name="fintile_0022_Turtle_Wax_Car_wax_FG7292.png" width="640" height="678"/>
+        <image name="fintile_0023_Turtle_Wax_Bright_Car_wax_FG7296.png" width="640" height="678"/>
+        <image name="greentile_TILE GREEN-LINE-TYRE-AND-BUMPER-GEL-500ML-FG7637-UK-FAW.png" width="640" height="678"/>
+        <image name="esstile_TILE_625_essential_100gm_tube_label_scratch_remover_v3.png" width="640" height="678"/>
+        <image name="fintile_Turtle_Wax_Wheels_FG7282.png" width="640" height="678"/>
+        <image name="finprod_0000_Turtle_Wax_Wheels_FG7282.png" width="333" height="564"/>
+        <image name="finprod_0001_Turtle_Wax_Tyre_Spray_FG7300.png" width="333" height="564"/>
+        <image name="finprod_0002_Turtle_Wax_Tyre_Gel_FG7556.png" width="333" height="564"/>
+        <image name="finprod_0003_Turtle_Wax_Spray_Wax_FG7294.png" width="333" height="564"/>
+        <image name="finprod_0004_Turtle_Wax_Shampoo_FG7280.png" width="333" height="564"/>
+        <image name="finprod_0005_Turtle_Wax_Scratch_remover_FG7288.png" width="333" height="564"/>
+        <image name="finprod_0006_Turtle_Wax_Polish_FG7289.png" width="333" height="564"/>
+        <image name="finprod_0007_Turtle_Wax_Paste_Wax_v2_FG7293.png" width="333" height="564"/>
+        <image name="finprod_0008_Turtle_Wax_Paste_Wax_v1_FG7293.png" width="333" height="564"/>
+        <image name="finprod_0009_Turtle_Wax_Metal_Shine.png" width="333" height="564"/>
+        <image name="finprod_0010_Turtle_Wax_Leather_Conditioner_FG7291.png" width="333" height="564"/>
+        <image name="finprod_0011_Turtle_Wax_Interior_Shampoo_FG7284.png" width="333" height="564"/>
+        <image name="finprod_0012_Turtle_Wax_Interior_plastic_shine_FG7301.png" width="333" height="564"/>
+        <image name="finprod_0013_Turtle_Wax_Interior_plastic_matt_FG7302.png" width="333" height="564"/>
+        <image name="finprod_0014_Turtle_Wax_Insect_Remover_FG7281.png" width="333" height="564"/>
+        <image name="finprod_0015_Turtle_Wax_Gloss_Protect_FG7297.png" width="333" height="564"/>
+        <image name="finprod_0016_Turtle_Wax_Glass_Treatment_FG7303.png" width="333" height="564"/>
+        <image name="finprod_0017_Turtle_Wax_Glass_Clean_FG7285.png" width="333" height="564"/>
+        <image name="finprod_0018_Turtle_Wax_Fresh_Leather_FG7287.png" width="333" height="564"/>
+        <image name="finprod_0019_Turtle_Wax_Exterior_Plastic_FG7290.png" width="333" height="564"/>
+        <image name="finprod_0020_Turtle_Wax_Detailer_spray_FG7298.png" width="333" height="564"/>
+        <image name="finprod_0021_Turtle_Wax_Car_wax_FG7292.png" width="333" height="564"/>
+        <image name="finprod_0022_Turtle_Wax_Bright_Car_wax_FG7296.png" width="333" height="564"/>
+        <image name="biglogo.png" width="384" height="272"/>
+        <image name="a_downloadlocalised.png" width="344" height="483"/>
+        <image name="b_welcome.png" width="689" height="340"/>
+        <image name="c_scan.png" width="750" height="510"/>
+        <image name="d_readytogo.png" width="624" height="304"/>
+        <image name="DROP_DOWN.png" width="21" height="13"/>
+        <image name="DOWN_ARROW.png" width="106" height="102"/>
+        <image name="LOCATION_ICON.png" width="60" height="60"/>
+        <image name="SEARCH_BOX.png" width="106" height="102"/>
+        <image name="USE_CURRENT_LOCATION.png" width="600" height="110"/>
+        <image name="BODYWORK_CLEAN.png" width="222" height="166"/>
+        <image name="BODYWORK_FINISH.png" width="222" height="166"/>
+        <image name="BODYWORK_RESTORE.png" width="222" height="166"/>
+        <image name="GLASS.png" width="222" height="166"/>
+        <image name="INTERIOR.png" width="222" height="166"/>
+        <image name="WHEELS_AND_TYRES.png" width="222" height="166"/>
+        <image name="Icon.png" width="57" height="57"/>
+        <image name="Icon-60.png" width="60" height="60"/>
+        <image name="Icon-Small.png" width="29" height="29"/>
+        <image name="Icon-Small-40.png" width="40" height="40"/>
+        <image name="Default.png" width="320" height="480"/>
+        <image name="1_ImageRecognition_2_MultipleTargets/assets/FG7809.png" width="191" height="148"/>
+        <image name="1_ImageRecognition_2_MultipleTargets/assets/FG7814.png" width="233" height="190"/>
+        <image name="1_ImageRecognition_2_MultipleTargets/assets/FG7815.png" width="195" height="155"/>
+        <image name="PRODUCT_EXPLORER.png" width="80" height="80"/>
+        <image name="SCAN_A_PRODUCT.png" width="80" height="80"/>
+        <image name="WHERE_TO_BUY.png" width="60" height="89"/>
+        <image name="step4.png" width="154" height="154"/>
+        <image name="step5.png" width="154" height="154"/>
+        <image name="step6.png" width="154" height="154"/>
+        <image name="step7.png" width="154" height="154"/>
+        <image name="step8.png" width="154" height="154"/>
+        <image name="SCANNING_FRAME.png" width="723" height="494"/>
+    </resources>
+</document>

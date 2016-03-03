@@ -1,0 +1,9 @@
+wikitude_demo/bin/*
+wikitude_demo/obj/*
+packages/*
+Components/*
+Droid/bin/*
+Droid/obj/*
+iOS/bin/*
+iOS/obj/*
+

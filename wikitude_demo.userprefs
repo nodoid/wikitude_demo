@@ -1,0 +1,3 @@
+﻿<Properties StartupItem="iOS/wikitude_demo.iOS.csproj">
+  <MonoDevelop.Ide.ItemProperties.wikitude__demo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+</Properties>
